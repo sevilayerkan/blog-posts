@@ -1,4 +1,4 @@
-# SDLC — Yazılım Yaşam Döngüsü
+# SDLC ve CI/CD  
 
 Her yazılım projesi şu üç aşamaya sahip olmalıdır: Bunlar projeye göre bazen iç içe bazen ayrıdır.
 
@@ -8,13 +8,7 @@ Bunlar:
 - Geliştirme(Source control)
 - Operasyon (Build ve development)
 
-Yani bir akış halinde gösterecek olursak yazılım geliştirmede süreç şu şekilde ilerliyor diyebiliriz basitçe: Develop -> Test -> Build -> Deploy
-
-## DevOps
-
-DevOps’u anlatmaya kelimeler yetmez tabi ki ama kısaca insanları, prosesleri ve teknolojileri bir araya getirerek sürekli bir değer sunmak şeklinde tanımlayabiliriz. Detaylı bilgi için bu videoya bakabilirsiniz.
-
-<https://www.youtube.com/watch?v=0yWAtQ6wYNM>
+Yani bir akış halinde gösterecek olursak yazılım geliştirmede basitçe süreç şu şekilde ilerliyor diyebiliriz : Develop -> Test -> Build -> Deploy
 
 ## CI/CD
 
