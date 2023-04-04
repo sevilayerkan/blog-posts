@@ -47,8 +47,9 @@ Depoyu oluşturduktan sonra, Git'te birçok komut kullanılabilir. Bazı temel k
 - Değişikleri uzak git sunucusuna yollamak için: git push
 
 ## Yararlı Kaynaklar
-https://git-scm.com/downloads
-https://aliozgur.gitbooks.io/git101/content/
-https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
+
+- https://git-scm.com/downloads
+- https://aliozgur.gitbooks.io/git101/content/
+- https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
 
 
