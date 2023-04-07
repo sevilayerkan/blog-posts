@@ -51,5 +51,9 @@ Depoyu oluşturduktan sonra, Git'te birçok komut kullanılabilir. Bazı temel k
 - https://git-scm.com/downloads
 - https://aliozgur.gitbooks.io/git101/content/
 - https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
+- https://education.github.com/git-cheat-sheet-education.pdf
+- https://www.atlassian.com/git/tutorials
+- https://about.gitlab.com/images/press/git-cheat-sheet.pdf
+- https://www.conventionalcommits.org/en/v1.0.0/
 
 
