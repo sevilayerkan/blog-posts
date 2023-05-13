@@ -38,11 +38,22 @@ git init
 
 Depoyu oluşturduktan sonra, Git'te birçok komut kullanılabilir. Bazı temel komutlar şunlardır:
 
-Dosyaları ekleme: git add dosya adı  
-Veya tüm dosyaları eklemek için git add -A
-Değişiklikleri kaydetme: git commit -m "açıklama"
-Depo durumunu kontrol etme: git status
-Değişiklik geçmişini görüntüleme: git log
-Değişikleri göndermek için uzak sunucu eklemek için: git remote add uzaksunucuismi uzaksunucuadresi
-Değişikleri uzak git sunucusuna yollamak için: git push
+- Dosyaları ekleme: git add dosya adı  
+- Veya tüm dosyaları eklemek için git add -A
+- Değişiklikleri kaydetme: git commit -m "açıklama"
+- Depo durumunu kontrol etme: git status
+- Değişiklik geçmişini görüntüleme: git log
+- Değişikleri göndermek için uzak sunucu eklemek için: git remote add uzaksunucuismi uzaksunucuadresi
+- Değişikleri uzak git sunucusuna yollamak için: git push
+
+## Yararlı Kaynaklar
+
+- https://git-scm.com/downloads
+- https://aliozgur.gitbooks.io/git101/content/
+- https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
+- https://education.github.com/git-cheat-sheet-education.pdf
+- https://www.atlassian.com/git/tutorials
+- https://about.gitlab.com/images/press/git-cheat-sheet.pdf
+- https://www.conventionalcommits.org/en/v1.0.0/
+
 
